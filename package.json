@@ -1,20 +1,20 @@
 {
-  "name": "co-wechat",
-  "version": "1.0.0",
-  "description": "wechat api for co",
+  "name": "co-wechat-corp",
+  "version": "0.1.0",
+  "description": "Wechat Corporate api for Koa",
   "main": "lib/wechat.js",
   "scripts": {
     "test": "make test-all"
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/node-webot/co-wechat"
+    "url": "https://github.com/totogo/co-wechat-corp"
   },
   "keywords": [
     "wechat",
     "wexin"
   ],
-  "author": "Jackson Tian",
+  "author": "Sitao Z.",
   "license": "MIT",
   "dependencies": {
     "xml2js": "0.4.4",
